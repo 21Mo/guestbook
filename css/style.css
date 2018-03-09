@@ -1,0 +1,63 @@
+body{
+  background-image: url("../img/space1.jpg");
+}
+#buttonsubmit {
+    background-color: #abb7cc;
+    border: none;
+    color: white;
+    padding: 16px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    -webkit-transition-duration: 1s; /* Safari */
+    transition-duration: 4.4s;
+    cursor: pointer;
+    margin-left: auto;
+}
+#buttonreset {
+    background-color: #abb7cc;
+    border: none;
+    color: white;
+    padding: 16px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    -webkit-transition-duration: 1s; /* Safari */
+    transition-duration: 4.4s;
+    margin-left: 238px;
+}
+#guestbook {
+    font-family: sans-serif;
+    width: 400px;
+    border: 0;
+    align-items: center;
+    background-color: #CCCCCC;
+}
+h1 {
+    font-family: Good Times;
+    font-size: 40px;
+}
+fieldset {
+    width: 800;
+    margin-left: 400;
+}
+#table-container {
+  border: 1px solid black;
+  width: 960px;
+  height: 200px;
+  margin-top: -40px;
+  margin-left: 400px;
+  background-color: #CCCCCC;
+  overflow-y: scroll;
+}
+#tabledata td{
+  border: 1px solid white;
+  width: 300px;
+}
+h2{
+  font-size:40;
+  font-family: Good Times;
+  margin-top: 90px;
+}
